@@ -1,0 +1,4 @@
+.slide {
+    position: absolute;
+    transition: opacity 2s ease-in-out;
+}
